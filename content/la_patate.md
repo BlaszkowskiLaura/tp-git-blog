@@ -4,3 +4,9 @@ draft = true
 title = "Mes réponses au TP Git"
 +++
 # TP Git
+
+# TP Git
+## Configuration
+git config --global user.name "Alexis Lambois"
+git config --global user.email "Lambois16@gmail.com"
+git config --global http.proxy http://cache.univ-lille1.fr:3128/
