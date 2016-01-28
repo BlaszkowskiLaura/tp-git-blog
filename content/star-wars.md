@@ -4,16 +4,6 @@ draft = true
 title = "star-wars"
 +++
 bonjour a tous !
-test
-<!DOCTYPE html>
-<html>
-<head>
-<title>Title of the document</title>
-</head>
-<body>
-<img src="hansolo.jpg"></img>
-</body>
-</html> 
- 
+![Alt text](/public/hansolo.jpg) 
 # TP Git
 test pour deuxieme commit
