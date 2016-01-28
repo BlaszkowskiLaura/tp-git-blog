@@ -4,6 +4,6 @@ draft = true
 title = "star-wars"
 +++
 bonjour a tous !
-![Alt text](/public/hansolo.jpg) 
+!(/public/hansolo.jpg) 
 # TP Git
 test pour deuxieme commit
